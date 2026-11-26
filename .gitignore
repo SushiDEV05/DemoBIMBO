@@ -1,0 +1,43 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# next.js
+/.next/
+/out/
+
+# production
+/build
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# local env files
+.env*.local
+.env
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+# serwist service worker output
+public/sw*
+public/swe-worker*
+
+
+# .env.local
+NEXT_PUBLIC_SUPABASE_URL=https://vuvaherpxssantrckpga.supabase.co
+NEXT_PUBLIC_SUPABASE_ANON_KEY=sb_publishable_l5bV-TljOaZfO9rW4YRv2w_kDgNBY4Z
